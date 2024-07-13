@@ -1,0 +1,18 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+.top-header {
+    background-color: blueviolet;
+    text-align: center;
+}
+.menu-item {
+    color: rgb(243, 239, 239);
+    padding: 15px;
+    display: inline-block;
+    text-decoration: none;
+}
+.active{
+    font-size: 20px;
+    font-weight: 600;
+}
